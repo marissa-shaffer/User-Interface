@@ -64,7 +64,13 @@ h1, h2, h3, h4, h5 {
 }
 
 /* Your code starts here! */
-nav{ 
-	text-decoration:none;
+a{ 
+	text-decoration: none;
 	color:gray;
+	margin: 5%;
+}
+
+.logo{
+	display: inline-block;
+	margin-left:2%;
 }
