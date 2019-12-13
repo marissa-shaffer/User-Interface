@@ -66,6 +66,8 @@ h1, h2, h3, h4, h5 {
 /* Your code starts here! */
 nav{ 
 	display: inline-block;
+	margin-right: 50px;
+	margin-top: 5px;
 }
 
 a{
@@ -74,13 +76,28 @@ a{
 	margin: 2%;
 }
 
+a:hover {
+	color: blue;
+}
+
+.container{
+	max-width: 900px;
+	margin: auto;
+	background: white;
+	padding: 10px;
+}
+
 .logo{
 	display: inline-block;
 	margin: 2%;
 }
 
 h1{
-	font-size:72px;
+	font-size:80px;
+	text-align: center;
+	display: inline-block;
+	width: 300px;
+	height: 300px;
 }
 
 .button{
@@ -89,4 +106,15 @@ h1{
 	height: 36px;
 	padding: 8px;
 	text-align: center;
+	display: inline-block;
+}
+
+.button:hover{
+	background: grey;
+}
+
+.round-image {
+	position: absolut;
+	display: inline-block;
+	margin: 50px 10px 25px 450px;
 }
