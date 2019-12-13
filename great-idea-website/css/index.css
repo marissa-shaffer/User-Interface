@@ -93,23 +93,27 @@ a:hover {
 	margin: 20px 0 -11px 50px;
 }
 
+.section-one .top-section{
+	display: inline-block;
+	vertical-align: middle;
+	margin-left: 50px;
+	margin-right:20px;
+	
+}
+
 h1{
 	font-size:80px;
 	text-align: center;
-	display: inline-block;
-	margin: 75px;
-	width: 373px;
-	height: 373px;
 	padding-top: 20px;
 }
 
 .button{
 	border: 1.5px solid black;
-	margin: -29px 78px 54px 100px;
+	margin: 29px 78px 54px 100px;
 	padding: 5px 33px;
 	font-size: 13px;
 	text-align: center;
-	display: inline-block;
+	display: block;
 }
 
 .button:hover{
@@ -118,7 +122,13 @@ h1{
 
 .round-image {
 	display: inline-block;
-	width: 400px;
+	vertical-align: middle;
+	margin-left:40px;
+}
+.section-one{
+	width:100%;
+	margin-top:60px;
+	margin-bottom:60px;
 }
 
 .section-two{
