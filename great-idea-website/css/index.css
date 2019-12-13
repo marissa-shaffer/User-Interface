@@ -78,3 +78,15 @@ a{
 	display: inline-block;
 	margin: 2%;
 }
+
+h1{
+	font-size:72px;
+}
+
+.button{
+	border: 1.5px solid black;
+	width: 180px;
+	height: 36px;
+	padding: 8px;
+	text-align: center;
+}
