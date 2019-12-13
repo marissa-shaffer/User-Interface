@@ -109,5 +109,16 @@ h1{
 
 .round-image {
 	display: inline-block;
-	margin: 50px 10px 25px 450px;
+}
+
+.features{
+	display: inline-block;
+	width: 35%;
+	margin:5%;
+}
+
+.about{
+	display: inline-block;
+	width: 35%;
+	margin:5%;
 }
