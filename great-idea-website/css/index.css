@@ -122,20 +122,20 @@ h1{
 }
 
 .section-two{
-	width: 900px;
+	width: 875px;
 	border-top: 1px solid black;
 	margin-top: 20px;
 }
 
 .features{
 	display: inline-block;
-	width: 445px;
+	width: 430px;
 	margin: 20px 0;
 }
 
 .about{
 	display: inline-block;
-	width: 445px;
+	width: 430px;
 }
 
 .image-section{
