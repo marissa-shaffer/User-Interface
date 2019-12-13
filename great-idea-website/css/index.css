@@ -69,14 +69,19 @@ h1, h2, h3, h4, h5 {
 	margin: auto;
 } 
 
+header{
+	margin: 0 auto;
+}
+
 nav{ 
 	display:inline-block;
+	margin: 0 0 10px,
 }
 
 a{
 	text-decoration: none;
 	color: grey;
-	margin: 10px;
+	margin: 20px;
 }
 
 a:hover {
@@ -85,8 +90,7 @@ a:hover {
 
 .logo{
 	display: inline-block;
-	margin-left: 650px;
-	margin-top: 10px;
+	margin: 20px 0 -11px 50px;
 }
 
 h1{
