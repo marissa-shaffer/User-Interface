@@ -64,6 +64,11 @@ h1, h2, h3, h4, h5 {
 }
 
 /* Your code starts here! */
+.container {
+	width: 900px;
+	margin: auto;
+} 
+
 nav{ 
 	display:inline-block;
 }
@@ -114,11 +119,11 @@ h1{
 .features{
 	display: inline-block;
 	width: 35%;
-	margin:5%;
+	margin: 5%;
 }
 
 .about{
 	display: inline-block;
 	width: 35%;
-	margin:5%;
+	margin: 5%;
 }
