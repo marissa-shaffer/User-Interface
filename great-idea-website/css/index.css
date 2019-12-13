@@ -65,31 +65,23 @@ h1, h2, h3, h4, h5 {
 
 /* Your code starts here! */
 nav{ 
-	display: inline-block;
-	margin-right: 50px;
-	margin-top: 5px;
+	display:inline-block;
 }
 
 a{
 	text-decoration: none;
 	color: grey;
-	margin: 2%;
+	margin: 10px;
 }
 
 a:hover {
 	color: blue;
 }
 
-.container{
-	max-width: 900px;
-	margin: auto;
-	background: white;
-	padding: 10px;
-}
-
 .logo{
 	display: inline-block;
-	margin: 2%;
+	margin-left: 650px;
+	margin-top: 10px;
 }
 
 h1{
